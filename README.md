@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro
 
-Computer science student and web developer
+#Computer science student and web developer
 <!--**Pedro-rdn/Pedro-rdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
