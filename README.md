@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pedro
+## Hi there 👋, I'm Pedro
 
 ### Computer science student and web developer
 <!--**Pedro-rdn/Pedro-rdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
