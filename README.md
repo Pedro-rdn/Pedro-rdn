@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-rdn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <svg viewBox="0 0 128 128">
+<path fill="#efa500" d="M64 60.74l25.65-25.65h-51.3L64 60.74z"></path><path fill="#8dd737" d="M7.91 4.65l25.83 25.84h56.17L64.07 4.65H7.91zM67.263 63.993l28.08-28.08 27.951 27.953-28.08 28.079z"></path><path fill="#60b5cc" d="M123.35 57.42V4.65H70.58l52.77 52.77z"></path><path fill="#34495e" d="M60.74 64L4.65 7.91V120.1L60.74 64z"></path><path fill="#efa500" d="M98.47 95.21l24.88 24.89V70.33L98.47 95.21z"></path><path fill="#60b5cc" d="M64 67.26L7.91 123.35h112.18L64 67.26z"></path>
+</svg>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
